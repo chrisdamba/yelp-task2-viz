@@ -1,0 +1,809 @@
+{
+  "topic_data": [
+    {
+      "words": [ 
+        "daughter", 
+        "cute", 
+        "asada", 
+        "crowd", 
+        "hit", 
+        "meet", 
+        "lounge", 
+        "mix", 
+        "step", 
+        "pink"
+      ],
+      "name": "Topic_0",
+      "children": [
+        {
+          "words": [ 
+            "club", 
+            "class", 
+            "summer", 
+            "gym", 
+            "body", 
+            "area", 
+            "machine", 
+            "workout", 
+            "time", 
+            "pretzel"
+          ],
+          "name": "Topic_0_0",
+          "children": [
+            {
+              "words": [ 
+                  "store", 
+                  "shop", 
+                  "price", 
+                  "selection", 
+                  "item", 
+                  "product", 
+                  "place", 
+                  "location", 
+                  "staff", 
+                  "thing"
+              ],
+              "name": "Topic_0_0_0"
+            },
+            {
+              "words": [ 
+                  "pizza", 
+                  "topping", 
+                  "crust", 
+                  "place", 
+                  "slice", 
+                  "delivery", 
+                  "vanilla", 
+                  "order", 
+                  "john", 
+                  "ingredient"
+              ],
+              "name": "Topic_0_0_1"
+            }
+          ]
+        },
+        {
+          "words": [ 
+              "phoenix", 
+              "city", 
+              "event", 
+              "valley", 
+              "chain", 
+              "heart", 
+              "scottsdale", 
+              "hip", 
+              "quesadilla", 
+              "fair"
+          ],
+          "name": "Topic_0_1",
+          "children": [
+            {
+              "words": [ 
+                  "son", 
+                  "trust", 
+                  "dressing", 
+                  "repair", 
+                  "treatment", 
+                  "training", 
+                  "air", 
+                  "schedule", 
+                  "ball", 
+                  "concern"
+              ],
+              "name": "Topic_0_1_0"
+            },
+            {
+              "words": [ 
+                  "chicken", 
+                  "food", 
+                  "sauce", 
+                  "salad", 
+                  "rice", 
+                  "soup", 
+                  "dish", 
+                  "menu", 
+                  "shrimp", 
+                  "order"
+              ],
+              "name": "Topic_0_1_1"
+            }
+          ]
+        },
+        {
+          "words": [ 
+              "lady", 
+              "kink", 
+              "doughnut", 
+              "latte", 
+              "twist", 
+              "dream", 
+              "face", 
+              "insurance", 
+              "cleaning", 
+              "dim"
+          ],
+          "name": "Topic_0_2",
+          "children": [
+            {
+              "words": [ 
+                  "wow", 
+                  "boyfriend", 
+                  "boba", 
+                  "gelato", 
+                  "mango", 
+                  "establishment", 
+                  "candy", 
+                  "cheap", 
+                  "island", 
+                  "shame"
+              ],
+              "name": "Topic_0_2_0",
+              "children": [
+                {
+                  "words": [ 
+                      "flavor", 
+                      "meat", 
+                      "taste", 
+                      "sauce", 
+                      "side", 
+                      "bean", 
+                      "beef", 
+                      "bit", 
+                      "pepper", 
+                      "rib"
+                  ],
+                  "name": "Topic_0_2_0_0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "words": [ 
+          "roll", 
+          "sushi", 
+          "ramen", 
+          "pho", 
+          "place", 
+          "groupon", 
+          "photo", 
+          "salmon", 
+          "fish", 
+          "sashimi"
+      ],
+      "name": "Topic_1",
+      "children": [
+        {
+          "words": [ 
+              "coffee", 
+              "breakfast", 
+              "egg", 
+              "tea", 
+              "place", 
+              "pancake", 
+              "morning", 
+              "toast", 
+              "cup", 
+              "brunch"
+          ],
+          "name": "Topic_1_0",
+          "children": [
+            {
+              "words": [
+                "reconsider",
+                "laws",
+                "net",
+                "idea",
+                "neutrality",
+                "good",
+                "txt",
+                "page",
+                "faux",
+                "vote"
+              ],
+              "name": "Topic_1_0_0"
+            }
+          ]
+        },
+        {
+          "words": [ 
+              "kid", 
+              "fun", 
+              "child", 
+              "art", 
+              "desert", 
+              "place", 
+              "parent", 
+              "lot", 
+              "year", 
+              "energy"
+          ],
+          "name": "Topic_1_1",
+          "children": [
+            {
+              "words": [ 
+                  "chip", 
+                  "juice", 
+                  "burrito", 
+                  "salsa", 
+                  "corn", 
+                  "dip", 
+                  "chili", 
+                  "guacamole", 
+                  "cheese", 
+                  "homemade"
+              ],
+              "name": "Topic_1_1_0"
+            }
+          ]
+        },
+        {
+          "words": [ 
+              "room", 
+              "hotel", 
+              "pool", 
+              "floor", 
+              "stay", 
+              "area", 
+              "night", 
+              "bathroom", 
+              "waffle", 
+              "day"
+          ],
+          "name": "Topic_1_2",
+          "children": [
+            {
+              "words": [ 
+                  "food", 
+                  "place", 
+                  "service", 
+                  "price", 
+                  "time", 
+                  "staff", 
+                  "location", 
+                  "star", 
+                  "quality", 
+                  "restaurant"
+              ],
+              "name": "Topic_1_2_0"
+            },
+            {
+              "words": [ 
+                  "lunch", 
+                  "taco", 
+                  "amazing", 
+                  "bbq", 
+                  "food", 
+                  "buffet", 
+                  "brisket", 
+                  "tortilla", 
+                  "chicken", 
+                  "place"
+              ],
+              "name": "Topic_1_2_1"
+            }
+          ]
+        },
+        {
+          "words": [ 
+              "chef", 
+              "casino", 
+              "mac", 
+              "medium", 
+              "green", 
+              "mushroom", 
+              "cheese", 
+              "smoothy", 
+              "bf", 
+              "perfection"
+          ],
+          "name": "Topic_1_3",
+          "children": [
+            {
+              "words": [ 
+                  "job", 
+                  "company", 
+                  "nail", 
+                  "salon", 
+                  "massage", 
+                  "foot", 
+                  "appointment", 
+                  "pedicure", 
+                  "ranch", 
+                  "professional"
+              ],
+              "name": "Topic_1_3_0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "words": [ 
+          "treat",
+          "cookie", 
+          "truffle", 
+          "chipotle", 
+          "entrance",
+          "scoop", 
+          "chicago", 
+          "chill", 
+          "cilantro", 
+          "blueberry"
+      ],
+      "name": "Topic_2",
+      "children": [
+        {
+          "words": [ 
+              "entrance", 
+              "local", 
+              "word", 
+              "jam", 
+              "joe", 
+              "mother", 
+              "men", 
+              "gordon", 
+              "grill", 
+              "finish"
+          ],
+          "name": "Topic_2_0"
+        },
+        {
+          "words": [ 
+              "owner", 
+              "wife", 
+              "business", 
+              "coupon", 
+              "sister", 
+              "smile", 
+              "dress", 
+              "beautiful", 
+              "review", 
+              "student"
+          ],
+          "name": "Topic_2_1"
+        },
+        {
+          "words": [ 
+              "spring", 
+              "heard", 
+              "specialty", 
+              "quick", 
+              "inside", 
+              "fire", 
+              "al", 
+              "effort", 
+              "caesar", 
+              "dad"
+          ],
+          "name": "Topic_2_2"
+        },
+        {
+          "words": [ 
+              "parking", 
+              "cupcake", 
+              "lot", 
+              "saturday", 
+              "yesterday", 
+              "smell", 
+              "finger", 
+              "madison", 
+              "regular", 
+              "opportunity"
+          ],
+          "name": "Topic_2_3"
+        },
+        {
+          "words": [
+            "vega",
+            "car",
+            "change",
+            "trip",
+            "truck",
+            "time",
+            "guy",
+            "price",
+            "oil",
+            "ride"
+          ],
+          "name": "Topic_2_4",
+          "children": [
+            {
+              "words": [ 
+                  "buck", 
+                  "duck", 
+                  "crepe", 
+                  "leg", 
+                  "pig", 
+                  "fat", 
+                  "refreshing", 
+                  "custom", 
+                  "wheat", 
+                  "fancy"
+              ],
+              "name": "Topic_2_4_0"
+            },
+            {
+              "words": [ 
+                  "drive", 
+                  "purchase", 
+                  "fee", 
+                  "security", 
+                  "dozen", 
+                  "buy", 
+                  "mile", 
+                  "result", 
+                  "online", 
+                  "road"
+              ],
+              "name": "Topic_2_4_1"
+            },
+            {
+              "words": [
+                "president",
+                "obama",
+                "john",
+                "oliver",
+                "say",
+                "look",
+                "away",
+                "guy",
+                "yes",
+                "know"
+              ],
+              "name": "Topic_2_4_2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "words": [ 
+          "restaurant", 
+          "food", 
+          "menu", 
+          "service", 
+          "table", 
+          "dinner", 
+          "server", 
+          "party", 
+          "experience", 
+          "meal"
+      ],
+      "name": "Topic_3",
+      "children": [
+        {
+          "words": [ 
+              "husband", 
+              "hour", 
+              "cocktail", 
+              "patio", 
+              "bar", 
+              "decor", 
+              "menu", 
+              "drink", 
+              "seating", 
+              "spot"
+          ],
+          "name": "Topic_3_0"
+        },
+        {
+          "words": [ 
+              "bacon", 
+              "booth", 
+              "kinda", 
+              "pickle", 
+              "yeah", 
+              "smoothie", 
+              "draft", 
+              "ketchup", 
+              "restroom", 
+              "video"
+          ],
+          "name": "Topic_3_1",
+          "children": [
+            {
+              "words": [ 
+                  "show", 
+                  "family", 
+                  "seat", 
+                  "ticket", 
+                  "client", 
+                  "gem", 
+                  "velvet", 
+                  "concert", 
+                  "choose", 
+                  "blast"
+              ],
+              "name": "Topic_3_1_0"
+            },
+            {
+              "words": [ 
+                  "burger", 
+                  "fry", 
+                  "onion", 
+                  "bun", 
+                  "bacon", 
+                  "opening", 
+                  "ring", 
+                  "order", 
+                  "shake", 
+                  "cheese"
+              ],
+              "name": "Topic_3_1_1"
+            },
+            {
+              "words": [ 
+                  "rock", 
+                  "pie", 
+                  "honey", 
+                  "pop", 
+                  "miss", 
+                  "joke", 
+                  "crap", 
+                  "haha", 
+                  "pm", 
+                  "joint"
+              ],
+              "name": "Topic_3_1_2"
+            }
+          ]
+        },
+        {
+          "words": [ 
+              "%", 
+              "donut", 
+              "picture", 
+              "lol", 
+              "apple", 
+              "window", 
+              "pricing", 
+              "studio", 
+              "worker", 
+              "monday"
+          ],
+          "name": "Topic_3_2",
+          "children": [
+            {
+              "words": [ 
+                  "bar", 
+                  "beer", 
+                  "place", 
+                  "drink", 
+                  "night", 
+                  "music", 
+                  "game", 
+                  "bartender", 
+                  "time", 
+                  "selection"
+              ],
+              "name": "Topic_3_2_0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "words": [ 
+          "strip", 
+          "station", 
+          "location", 
+          "book", 
+          "mall", 
+          "flight", 
+          "yogurt", 
+          "brother", 
+          "pita", 
+          "snack"
+      ],
+      "name": "Topic_4",
+      "children": [
+        {
+          "words": [ 
+              "style", 
+              "wall", 
+              "box", 
+              "eye", 
+              "notch", 
+              "rib", 
+              "wood", 
+              "beat", 
+              "balance", 
+              "hole"
+          ],
+          "name": "Topic_4_0"
+        },
+        {
+          "words": [ 
+              "top", 
+              "milk", 
+              "strawberry", 
+              "fruit", 
+              "avocado", 
+              "date", 
+              "banana", 
+              "bacon", 
+              "mayo", 
+              "signature"
+          ],
+          "name": "Topic_4_1",
+          "children": [
+            {
+              "words": [ 
+                  "order", 
+                  "minute", 
+                  "time", 
+                  "food", 
+                  "drink", 
+                  "service", 
+                  "wait", 
+                  "place", 
+                  "water", 
+                  "hour"
+              ],
+              "name": "Topic_4_1_0"
+            },
+            {
+              "words": [ 
+                  "pork", 
+                  "thai", 
+                  "spicy", 
+                  "spice", 
+                  "noodle", 
+                  "pot", 
+                  "dish", 
+                  "dumpling", 
+                  "tea", 
+                  "tofu"
+              ],
+              "name": "Topic_4_1_1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "words": [ 
+          "la", 
+          "park", 
+          "adult", 
+          "gift", 
+          "theme", 
+          "garden", 
+          "prefer", 
+          "roller", 
+          "seed", 
+          "mike"
+      ],
+      "name": "Topic_5",
+      "children": [
+        {
+          "words": [ 
+              "cream", 
+              "ice", 
+              "bomb", 
+              "sun", 
+              "bell", 
+              "stone", 
+              "chorizo", 
+              "brewery", 
+              "paint", 
+              "community"
+          ],
+          "name": "Topic_5_0"
+        },
+        {
+          "words": [ 
+              "card", 
+              "glad", 
+              "baby", 
+              "school", 
+              "credit", 
+              "hubby", 
+              "boy", 
+              "http", 
+              "pain", 
+              "cash"
+          ],
+          "name": "Topic_5_1"
+        },
+        {
+          "words": [ 
+              "customer", 
+              "service", 
+              "time", 
+              "hair", 
+              "manager", 
+              "phone", 
+              "employee", 
+              "work", 
+              "business", 
+              "call"
+          ],
+          "name": "Topic_5_2",
+          "children": [
+            {
+              "words": [ 
+                  "sandwich", 
+                  "chocolate", 
+                  "bread", 
+                  "cake", 
+                  "dessert", 
+                  "place", 
+                  "flavor", 
+                  "cheese", 
+                  "yum", 
+                  "sweet"
+              ],
+              "name": "Topic_5_2_0",
+              "children": [
+                {
+                  "words": [ 
+                      "time", 
+                      "day", 
+                      "staff", 
+                      "week", 
+                      "wing", 
+                      "work", 
+                      "year", 
+                      "month", 
+                      "visit", 
+                      "care"
+                  ],
+                  "name": "Topic_5_2_0_0"
+                }
+              ]
+            },
+            {
+              "words": [ 
+                  "view", 
+                  "design", 
+                  "skin", 
+                  "airport", 
+                  "dj", 
+                  "set", 
+                  "bunch", 
+                  "vegan", 
+                  "direction", 
+                  "vibe"
+              ],
+              "name": "Topic_5_2_1"
+            }
+          ]
+        },
+        {
+          "words": [ 
+              "steak", 
+              "potato", 
+              "side", 
+              "sausage", 
+              "butter", 
+              "salad", 
+              "lobster", 
+              "mom", 
+              "peanut", 
+              "bread"
+          ],
+          "name": "Topic_5_3"
+        },
+        {
+          "words": [ 
+              "line", 
+              "people", 
+              "guy", 
+              "time", 
+              "door", 
+              "girl", 
+              "thing", 
+              "man", 
+              "place", 
+              "counter"
+          ],
+          "name": "Topic_5_4"
+        }
+      ]
+    }
+  ]
+}
